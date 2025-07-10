@@ -8,7 +8,7 @@ import Landing from './pages/Landing'
 import Sorted from './pages/Sorted'
 import Search from './pages/Search'
 import Category from './pages/Category'
-import { Analytics } from "@vercel/analytics/next"
+import { Analytics } from "@vercel/analytics/react"
 
 function App() {
   return (
